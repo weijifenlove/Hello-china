@@ -1,6 +1,6 @@
 # Hello-china
 001Description
-#include<stdio.hh>
+#include<stdio.h>
 int main()
 {
 

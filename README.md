@@ -25,5 +25,13 @@ printf("hello worl hello world hello weijifen2");
 2. 你是我的爷
 3. 我是你的儿
 
-- 儿子
-+
+- 儿子  
++可以的 牛逼哄哄的软件  
+[电子科技大学](你爸爸)  
+[UESTC](这儿)  
+[电子科技大学](你爸爸) 
+网站[电子科技大学][1]  
+
+
+[1]:http://www.uestc.edu.cn
+ 

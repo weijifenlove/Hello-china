@@ -62,10 +62,26 @@ Thank `you` .please `call` me `coder`
 ![baidu](http://www.baidu.com/img/bdlogo.gif)<br>
 下有悬浮标志<br>
 ![baidu](http://www.baidu.com/img/bdlogo.gif "认识不：百度logo啦")<br>
+![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)  
 
+[![baidu]](http://baidu.com)<br>  
+[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo" 
 
-
-
+```java  
+public static void main(String[]args){}//java
+```
+```c
+int main()
+{
+    int argc,char *argv[];
+}//c
+```
+```javascript
+doucument.getElementById("myH1").innerHTML="Welcome to my homepage";//javascript
+```
+```cpp
+string &operator+(const string& A,const strings B)//cpp
+```
 
 
 

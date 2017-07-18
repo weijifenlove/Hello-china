@@ -8,7 +8,7 @@ int main()
     {
         j=j+i;
         printf("the j number is %d\n",j);
-
+        printf("the j number is %d\n",j);
     }
     return 0;
 }

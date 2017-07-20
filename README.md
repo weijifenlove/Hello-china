@@ -82,7 +82,8 @@ doucument.getElementById("myH1").innerHTML="Welcome to my homepage";//javascript
 ```cpp
 string &operator+(const string& A,const strings B)//cpp
 ```
-
+<!--keyi    -->
+<!-- djeifj -->
 
 
         

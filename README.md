@@ -9,7 +9,7 @@ int main()
 }  
 ```
 
-大标题\三个‘=’在下边划线
+大标题\三个‘=’在下边划线(20180305change)
 ===
 
 ***
@@ -37,6 +37,9 @@ jjjjjjjjjjj
 显示`高亮`了吧，`hahahahahah` haha  
 Thank `you` .please `call` me `coder` 
 ## 插入网址链接 
+[我的GitHub网址：](https://github.com/weijifenlove/Hello-china/blob/master/%E7%AC%AC%E4%BA%8C%E6%97%A5.c)  
+[我的GitHub网址：](https://github.com/weijifenlove/Hello-china/blob/master/%E7%AC%AC%E4%BA%8C%E6%97%A5.c "点击进入GitHub")  
+https://github.com/weijifenlove/Hello-china.git
 [我的GitHub网址：](https://github.com/weijifenlove/Hello-china/blob/master/%E7%AC%AC%E4%BA%8C%E6%97%A5.c)  
 [我的GitHub网址：](https://github.com/weijifenlove/Hello-china/blob/master/%E7%AC%AC%E4%BA%8C%E6%97%A5.c "点击进入GitHub")  
 # 插入符号
